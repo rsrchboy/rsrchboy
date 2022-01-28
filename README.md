@@ -4,8 +4,13 @@ To find out more about me, visit:
 
 * My blog, at https://weyl.io
 * :fox_face: GitLab, at https://gitlab.com/rsrchboy
+* GitHub, at https://gitlab.com/rsrchboy
+* LinkedIn, at https://www.linkedin.com/in/chriskweyl
 
-While I still use GitHub for forks and (most) existing projects, I tend to create new projects and repositories at GitLab.  In particular, I tend to be very CI-driven, and for some time now GitLab has had a _fantastic_ CI/CD system.
+While I still use GitHub for forks and (most) existing projects, I tend to
+create new projects and repositories at GitLab.  In particular, I tend to be
+very CI-driven, and for some time now GitLab has had a _fantastic_ CI/CD
+system.
 
 <!--
 
